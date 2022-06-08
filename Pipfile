@@ -1,0 +1,36 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-docx = "*"
+astroid = "==1.6.6"
+"backports.functools-lru-cache" = "==1.6.1"
+certifi = "==2020.4.5.1"
+chardet = "==3.0.4"
+colorama = "==0.4.3"
+configparser = "==4.0.2"
+enum34 = "==1.1.10"
+idna = "==2.9"
+isort = "==4.3.21"
+lazy-object-proxy = "==1.4.3"
+markdown2 = "==2.3.9"
+mccabe = "==0.6.1"
+pdfkit = "==0.6.1"
+pylint = "==1.9.4"
+requests = "==2.23.0"
+singledispatch = "==3.4.0.3"
+six = "==1.15.0"
+urllib3 = "==1.25.9"
+wrapt = "==1.12.1"
+jira = "==3.1.1"
+Deprecated = "==1.2.10"
+PyJWT = "==1.7.1"
+XlsxWriter = "==3.0.2"
+
+[dev-packages]
+autopep8 = "*"
+
+[requires]
+python_version = "3.8"

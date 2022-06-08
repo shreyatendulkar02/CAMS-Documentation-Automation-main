@@ -1,0 +1,10 @@
+{
+  "user": "shreyatendulkar02",
+  "token": "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",
+  "organization": "sweetspot",
+  "repository": "cams",
+  "labels": "global-cams",
+  "PR_TITLE_FIELD_NAME": "title",
+  "INPUT_DOCUMENT_NAME": "CORPFT-000157 Code Review Report RPT Template.docx",
+  "OUTPUT_DOCUMENT_NAME": "RPT-XXXXXX-name-goes-here.docx"
+}
